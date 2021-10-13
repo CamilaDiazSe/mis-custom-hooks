@@ -1,5 +1,7 @@
 # useCounter Hook
 
+Custom hook como contador
+
 Ejemplo de uso: 
 
 ``` 
